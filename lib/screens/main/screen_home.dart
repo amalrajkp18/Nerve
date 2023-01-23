@@ -68,7 +68,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
                 sb.height10,
                 Row(
-                  children: [],
+                  children: const [],
                 ),
                 sb.height20,
                 GestureDetector(
